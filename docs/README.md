@@ -1,6 +1,5 @@
-[![SaeedSarabchi](https://circleci.com/gh/SaeedSarbchi/continuous-integration-circle2.svg?style=svg)](https://github.com/SaeedSarabchi/continuous-integration-circle2)
+[![SaeedSarabchi](https://circleci.com/gh/SaeedSarbchi/continuous-integration-circle2.svg?style=svg)](https://app.circleci.com/pipelines/github/SaeedSarabchi/continuous-integration-circle2)
 
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
 # WIP
 
