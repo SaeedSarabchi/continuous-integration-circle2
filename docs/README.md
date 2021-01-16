@@ -3,4 +3,4 @@
 
 
 
-Test-driving the CI/CD of a jeckyll site using CircleCI
+Test-driving the CI/CD of a jekyll site using CircleCI
