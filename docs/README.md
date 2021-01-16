@@ -1,5 +1,6 @@
-# Template:
-[![SaeedSarabchi](https://circleci.com/gh/SaeedSarbchi/continous-integration-circle2.svg?style=svg)](https://github.com/SaeedSarabchi/continuous-integration-circle2/edit/main/docs/README.md)
+[![SaeedSarabchi](https://circleci.com/gh/SaeedSarbchi/continuous-integration-circle2.svg?style=svg)](https://github.com/SaeedSarabchi/continuous-integration-circle2)
+
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
 # WIP
 
